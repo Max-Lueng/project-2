@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.left {
+    width: 30%;
+    height: 450px;
+    float: left;
+}
+.mid {
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+.right {
+    width: 20%;
+    height: 450px;
+    float: left;
+}
+.mid a , span{
+    text-decoration: none;
+    color: black;
+    float: right;
+    margin-left: 15px;
+}
+.mid a:hover {
+    text-decoration: underline;
+}
+.mid .box {
+    clear: both;
+    background-color: beige;
+    border-radius: 2px;
+    width: 100%;
+}
+.mid .case {
+    margin-top: 20px;
+    width: 100%;
+}
+.mid .case span {
+    float: left;
+}
+.mid .select {
+    float: right;
+    margin-right: 50%;
+}
+p {
+    color: gainsboro;
+    font-size: smaller;
+}
+.mid .case a {
+    clear: both;
+    font-size: small;
+    margin-right: 53%;
+}
+.span {
+    float: left;
+}
+.span a {
+    position: relative;
+    margin-left: 5px;
+    color: #0099ff;
+}
+.button {
+    width: 100px;
+    height: 30px;
+    background-color: #099;
+    color: white;
+    border-radius: 2px;
+    line-height: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.button a {
+    text-align: center;
+    float: none;
+    color: white;
+}
+.button a:hover {
+    text-decoration: none;
+}

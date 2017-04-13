@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(bilibili/game2.jpg);
+    width: 950px;
+}
+.logo {
+    width: 100%;
+    float: left;
+    margin-left: 60%;
+}
+.nav {
+    width: 150px;
+    height: 30px;
+    margin-left: 300px;
+    background-color: white;
+}
+.nav a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    line-height: 30px;
+}
+.fix1 {
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    background-color: gray;
+    border-radius: 8px;
+    bottom: 150px;
+    left: 100px;
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+}
+.fix1 a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.fix2 {
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #09c;
+    border-radius: 8px;
+    bottom: 100px;
+    left: 100px;
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+}
+.fix2 a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.fix3 {
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #693;
+    border-radius: 8px;
+    bottom: 50px;
+    left: 100px;
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+}
+.fix3 a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.img {
+    position: absolute;
+    left: 260px;
+    bottom: 45px;
+}
